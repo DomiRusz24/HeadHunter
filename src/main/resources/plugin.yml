@@ -1,0 +1,4 @@
+name: HeadHunter
+version: ${project.version}
+main: me.domirusz24.as.headhunter.headhunter.HeadHunter
+authors: [DomiRusz24]
